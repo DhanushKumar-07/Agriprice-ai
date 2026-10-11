@@ -1,0 +1,6 @@
+{
+  "name": "AgriPrice AI",
+  "description": "AI-Powered Agricultural Market Intelligence & Price Prediction Platform for Indian Farmers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
